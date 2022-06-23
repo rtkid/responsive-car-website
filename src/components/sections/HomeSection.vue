@@ -155,7 +155,7 @@ export default {
   border-radius: 50%;
   box-shadow: 0 0 12px hsl(158, 98%, 43%);
   transition: 0.3s;
-  animation: button 3s infinite;
+  animation: button 3s;
 }
 
 .home .shape__big,
